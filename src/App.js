@@ -13,7 +13,7 @@ function App() {
     <div>
       <Navbar/>
       <Switch>
-        <Route path="/" exact = "true" component={Home}/>
+        <Route path="/React-Beach-Resort" exact = "true" component={Home}/>
         
         <Route path="/Room/" exact = "true" component={Room}/>
         <Route path="/Room/:slug" exact = "true" component={SingleRoom}/>
