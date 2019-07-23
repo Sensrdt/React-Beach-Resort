@@ -8,7 +8,7 @@ export default function Rooms() {
         <>
             <Hero hero = "roomsHero">
                 <Banner title="Our rooms">
-                    <Link to='/' className = 'btn-primary'>
+                    <Link to='/React-Beach-Resort' className = 'btn-primary'>
                         Return Home
                     </Link>
                 </Banner>

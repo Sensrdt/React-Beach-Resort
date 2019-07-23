@@ -18,7 +18,7 @@ export default class Navbar  extends React.Component {
             <nav className="navbar">
                 <div className="nav-center">
                     <div className="nav-header">
-                        <Link to="/">
+                        <Link to="/React-Beach-Resort">
                             <img src={logo} alt="Island Chuski"/>
                         </Link>
                         <button type="button" className="nav-btn" 

@@ -50,7 +50,7 @@ export default class SingleRoom extends Component {
                 <StyleComponents img={images[0]}>
                     <Banner title = {room.name}
                     subtitle = "">
-                        <Link to = '/' className="btn-primary">
+                        <Link to = '/React-Beach-Resort' className="btn-primary">
                         our rooms
                         </Link>
                     </Banner> 

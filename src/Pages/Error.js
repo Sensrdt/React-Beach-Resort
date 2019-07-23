@@ -6,7 +6,7 @@ export default function Error() {
     return (
         <Hero>
             <Banner title = "404" subtitle="page not found">
-                <Link to='/' className='btn-primary'>
+                <Link to='/React-Beach-Resort' className='btn-primary'>
                     Return Back
                 </Link>
             </Banner>
